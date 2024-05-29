@@ -22,6 +22,12 @@ dest:
 
 ## Usage
 
+It can be installed by running:
+
+```
+go install github.com/truongnqse05461/minio-sync@latest
+```
+
 ```
 minio-sync [command]
 
