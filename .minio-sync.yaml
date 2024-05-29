@@ -1,0 +1,10 @@
+src:
+  endpoint: localhost:9000
+  accessKey: minioadmin
+  secretKey: minioadmin
+  useSSL: true
+dest:
+  endpoint: minio.dev:9000
+  accessKey: minioadmin
+  secretKey: minioadmin
+  useSSL: false
